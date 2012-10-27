@@ -1,0 +1,142 @@
+@font-face {
+	font-family: 'Grands';
+	src:url('fonts/Grands.eot');
+	src:url('fonts/Grands.eot?#iefix') format('embedded-opentype'),
+		url('fonts/Grands.svg#Grands') format('svg'),
+		url('fonts/Grands.woff') format('woff'),
+		url('fonts/Grands.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'Grands';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+[class^="icon-"]:before, [class*=" icon-"]:before {
+	font-family: 'Grands';
+	font-style: normal;
+	speak: none;
+	font-weight: normal;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-YouTube:before {
+	content: "\e000";
+}
+.icon-Yandex:before {
+	content: "\e001";
+}
+.icon-Vkontakte:before {
+	content: "\e002";
+}
+.icon-VK:before {
+	content: "\e003";
+}
+.icon-vimeo:before {
+	content: "\e004";
+}
+.icon-twitter:before {
+	content: "\e005";
+}
+.icon-tumblr:before {
+	content: "\e006";
+}
+.icon-Steam:before {
+	content: "\e007";
+}
+.icon-StackOverflow:before {
+	content: "\e008";
+}
+.icon-SoundCloud:before {
+	content: "\e009";
+}
+.icon-Skype:before {
+	content: "\e00a";
+}
+.icon-Share:before {
+	content: "\e00b";
+}
+.icon-RSS:before {
+	content: "\e00c";
+}
+.icon-Readability:before {
+	content: "\e00d";
+}
+.icon-Read-it-Later:before {
+	content: "\e00e";
+}
+.icon-Pocket:before {
+	content: "\e00f";
+}
+.icon-Pinterest:before {
+	content: "\e010";
+}
+.icon-Picasa:before {
+	content: "\e011";
+}
+.icon-OpenID:before {
+	content: "\e012";
+}
+.icon-MySpace:before {
+	content: "\e013";
+}
+.icon-MoiKrug:before {
+	content: "\e014";
+}
+.icon-Linked-in:before {
+	content: "\e015";
+}
+.icon-LifeJournal:before {
+	content: "\e016";
+}
+.icon-lastfm:before {
+	content: "\e017";
+}
+.icon-Jabber:before {
+	content: "\e018";
+}
+.icon-Instapaper:before {
+	content: "\e019";
+}
+.icon-HabraHabr:before {
+	content: "\e01a";
+}
+.icon-google:before {
+	content: "\e01b";
+}
+.icon-GitHub-octoface:before {
+	content: "\e01c";
+}
+.icon-GitHub-circle:before {
+	content: "\e01d";
+}
+.icon-FourSquare:before {
+	content: "\e01e";
+}
+.icon-flickr:before {
+	content: "\e01f";
+}
+.icon-Flattr:before {
+	content: "\e020";
+}
+.icon-facebook:before {
+	content: "\e021";
+}
+.icon-Evernote:before {
+	content: "\e022";
+}
+.icon-Email:before {
+	content: "\e023";
+}
+.icon-DropBox:before {
+	content: "\e024";
+}
+.icon-Blogspot:before {
+	content: "\e025";
+}
