@@ -1,0 +1,78 @@
+#downloads {
+  background: transparent;
+  width: auto;
+}
+#main_content_wrap {
+  border: 0;
+}
+#footer_wrap footer {
+  color: #f2f2f2;
+}
+footer p {
+  color: #444;
+}
+span.code {
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+#preview .glyph {
+  margin: 0.4em;
+}
+#preview .box1 {
+  width: 18em;
+}
+section, header, footer {display: block;}
+	body {
+		font-family: sans-serif;
+		color: #444;
+		line-height: 1.5;
+		font-size: 1em;
+	}
+	* {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		margin: 0;
+		paddin: 0;
+	}
+	.glyph {
+		float: left;
+		text-align: center;
+		background: #eee;
+		padding: .75em;
+		margin: .75em 1.5em .75em 0;
+		width: 7em;
+		border-radius: .375em;
+		box-shadow: inset 0 0 0 1px #fff, 0 0 0 1px #ccc;
+	}
+	.glyph input {
+		width: 100%;
+		text-align: center;
+		font-family: consolas, monospace;
+	}
+	.glyph input, .mtm {
+		margin-top: .75em;
+	}
+	.w-main {
+		width: 80%;
+	}
+	.centered {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.fs1 {
+		font-size: 2em;
+	}
+	.clearfix:before, .clearfix:after { content: ""; display: table; }
+	.clearfix:after, .clear { clear: both; }
+	footer {
+		margin-top: 2em;
+		padding: .5em 0;
+		box-shadow: 0 -2px #eee;
+	}
+	.box1 {
+		display: inline-block;
+		width: 15em;
+		padding: .25em .5em;
+		background: #eee;
+		margin: .5em 1em .5em 0;
+	}
