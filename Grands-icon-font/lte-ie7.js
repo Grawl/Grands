@@ -43,8 +43,7 @@ window.onload = function() {
 			'icon-Evernote' : '&#xe022;',
 			'icon-Email' : '&#xe023;',
 			'icon-DropBox' : '&#xe024;',
-			'icon-Blogspot' : '&#xe025;',
-			'icon-BitBucket' : '&#xe026;'
+			'icon-Blogspot' : '&#xe025;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, html, c, el;
