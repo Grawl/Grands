@@ -9,3 +9,5 @@
 Нравится формат, но нет нужного значка? [Создай Issue](https://github.com/Grawl/Grands/issues/new).
 
 *Шрифт создан при помощи [IcoMoon](http://icomoon.io/).*
+
+Лицензия — [WTFPL](http://ru.wikipedia.org/wiki/WTFPL)
