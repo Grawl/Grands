@@ -28,7 +28,7 @@ window.onload = function() {
 			'icon-MySpace' : '&#xe013;',
 			'icon-MoiKrug' : '&#xe014;',
 			'icon-Linked-in' : '&#xe015;',
-			'icon-LifeJournal' : '&#xe016;',
+			'icon-LiveJournal' : '&#xe016;',
 			'icon-lastfm' : '&#xe017;',
 			'icon-Jabber' : '&#xe018;',
 			'icon-Instapaper' : '&#xe019;',
